@@ -19,7 +19,7 @@ int main()
 		printf("파일 접근에 오류가 발생함.\n");
 		return 0;
 	}
-
+6
 	//fprintf(fp,"괴성 지르기! : %s\n",buff);
 	fscanf(fp,"%s",rBuff);
 	printf("%s\n",rBuff);

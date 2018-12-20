@@ -1,0 +1,17 @@
+WindowAPI
+handle = CreateFile(....)
+		ReadFile(      )
+		WriteFile(      )
+
+		1. handle (
+		2. event-object
+		3. apcs
+
+Today topics : IO Compition ports
+
+//다음주 시험 : 주관식 1시간 30분
+프로그래밍은 아니고 개념문제, open everything
+
+//echosrv 돌아가게 고쳐보기
+
+// comkeen4@gmail.com
